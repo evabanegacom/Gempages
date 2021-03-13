@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.logo {
+  width: 3%;
+  background: rgb(199, 193, 193);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  margin-right: 100px;
+}
+
+.head {
+  width: 30%;
+  margin-right: 150px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.head p {
+    font-size: 9px;
+}
+
+.biggest {
+  background: rgb(240, 234, 234);
+  width: 60%;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 90px;
+}
+
+button {
+    padding: 5px;
+    font-size: 10px;
+}
+
+.box3 {
+    display: flex;
+    margin-top: 10px;
+    width: 65%;
+    justify-content: center;
+}
+
+.box3 div {
+  background:rgb(240, 234, 234);
+}
+
+.box4 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
