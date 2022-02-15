@@ -1,1 +1,1 @@
-live-link : https://rawcdn.githack.com/evabanegacom/Gempages/0fcaed2cad7edd9a43f62fa3d41c0e706f5629ec/index.html
+https://evabanegacom.github.io/Gempages/
